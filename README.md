@@ -28,7 +28,7 @@ Here's how to synthesise the musical note A on the left channel and the musical 
 MPSoundEngine-iOS is available through [CocoaPods](http://cocoapods.org), to install
 it simply add the following line to your Podfile:
 
-    pod "MPSoundEngine", :git => "git@github.com:bordplate/MPSoundEngine.git"
+    pod "MPSoundEngine", :git => "https://github.com/bordplate/MPSoundEngine-iOS.git"
 
 ## Author
 Original author: Matthias Plappert, matthiasplappert@me.com  
