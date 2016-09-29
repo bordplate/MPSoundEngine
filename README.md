@@ -1,7 +1,4 @@
 # MPSoundEngine-iOS
-[![Version](http://cocoapod-badges.herokuapp.com/v/MPSoundEngine/badge.png)](http://cocoadocs.org/docsets/MPSoundEngine)
-[![Platform](http://cocoapod-badges.herokuapp.com/p/MPSoundEngine/badge.png)](http://cocoadocs.org/docsets/MPSoundEngine)
-
 This `MPSoundEngine`-fork allows you to very easily synthesise sounds for mono or stereo output on iOS.
 
 ## Usage
