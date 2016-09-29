@@ -34,7 +34,7 @@ it simply add the following line to your Podfile:
     pod "MPSoundEngine", :git => "git@github.com:bordplate/MPSoundEngine.git"
 
 ## Author
-Original author: Matthias Plappert, matthiasplappert@me.com
+Original author: Matthias Plappert, matthiasplappert@me.com  
 Fork: Vetle Økland (@p0peax)
 
 ## Acknowledgments
